@@ -12,7 +12,7 @@
 
 ## 🔧 Habilidades e Tecnologia
 - Spring Boot
-- Banco de dados (MySQL, MongoDB)
+- Banco de dados (MySQL, MongoDB,postgresql,H2)
 - SQL
 - GIT
 - JWT
