@@ -22,6 +22,8 @@
 - Docker
 - RabbitMQ
 - Microsservicos
+- JS
+- HTML e CSS
 >
 <div align="center">
   <a href="https://github.com/dcezarino">
