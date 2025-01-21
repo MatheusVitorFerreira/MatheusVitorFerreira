@@ -52,8 +52,8 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/MatheusVitorFerreira" style="display: flex;">
+  <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusVitorFerreira&repo=api-agendamento-aula&theme=holi"  /> 
   <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusVitorFerreira&repo=desafio-unidade-medica&theme=holi" />
-  <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusVitorFerreira&repo=chat-web-socket&theme=holi"  /> 
  </a>  
 </div>
   
