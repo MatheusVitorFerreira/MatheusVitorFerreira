@@ -15,7 +15,6 @@
   <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
   <img align="center" alt="Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">  
-  <img align="center" alt="Intellij" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">  
   <img align="center" alt="RabbitMQ" height="60" width="60" src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png">  
   <img align="center" alt="Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">  
   <img align="center" alt="MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
@@ -23,7 +22,6 @@
   <img align="center" alt="Git" height="60" width="60" src="https://static-00.iconduck.com/assets.00/github-icon-512x512-52n2sbyc.png">  
   <img align="center" alt="Swagger" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
   <br> 
-  <img align="center" alt="Maven" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">  
   <img align="center" alt="Hibernate" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg">
   <img align="center" alt="PostgreSQL" height="60" width="60" src="https://static-00.iconduck.com/assets.00/postgresql-plain-wordmark-icon-512x509-4ns3vom6.png">
  <img align = "center" alt="nodeJS" height = "60" width = "60" src = "https://camo.githubusercontent.com/63cdc705c9397b2de751875f2e803a53e99f0c8787cf65cac8c48a4e4a88ed56/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d617232312e737667">
